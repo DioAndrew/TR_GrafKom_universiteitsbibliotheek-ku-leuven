@@ -1,0 +1,31 @@
+﻿  TR_GRAFKOM.cpp
+C:\Users\Dio Andrew\source\repos\TR_GRAFKOM\TR_GRAFKOM\TR_GRAFKOM.cpp(66,5): warning C4551: function call missing argument list
+C:\Users\Dio Andrew\source\repos\TR_GRAFKOM\TR_GRAFKOM\TR_GRAFKOM.cpp(75,5): warning C4551: function call missing argument list
+C:\Users\Dio Andrew\source\repos\TR_GRAFKOM\TR_GRAFKOM\TR_GRAFKOM.cpp(213,5): warning C4551: function call missing argument list
+C:\Users\Dio Andrew\source\repos\TR_GRAFKOM\TR_GRAFKOM\TR_GRAFKOM.cpp(220,5): warning C4551: function call missing argument list
+C:\Users\Dio Andrew\source\repos\TR_GRAFKOM\TR_GRAFKOM\TR_GRAFKOM.cpp(227,5): warning C4551: function call missing argument list
+C:\Users\Dio Andrew\source\repos\TR_GRAFKOM\TR_GRAFKOM\TR_GRAFKOM.cpp(263,5): warning C4551: function call missing argument list
+C:\Users\Dio Andrew\source\repos\TR_GRAFKOM\TR_GRAFKOM\TR_GRAFKOM.cpp(270,5): warning C4551: function call missing argument list
+C:\Users\Dio Andrew\source\repos\TR_GRAFKOM\TR_GRAFKOM\TR_GRAFKOM.cpp(277,5): warning C4551: function call missing argument list
+C:\Users\Dio Andrew\source\repos\TR_GRAFKOM\TR_GRAFKOM\TR_GRAFKOM.cpp(331,5): warning C4551: function call missing argument list
+C:\Users\Dio Andrew\source\repos\TR_GRAFKOM\TR_GRAFKOM\TR_GRAFKOM.cpp(338,5): warning C4551: function call missing argument list
+C:\Users\Dio Andrew\source\repos\TR_GRAFKOM\TR_GRAFKOM\TR_GRAFKOM.cpp(345,5): warning C4551: function call missing argument list
+C:\Users\Dio Andrew\source\repos\TR_GRAFKOM\TR_GRAFKOM\TR_GRAFKOM.cpp(380,5): warning C4551: function call missing argument list
+C:\Users\Dio Andrew\source\repos\TR_GRAFKOM\TR_GRAFKOM\TR_GRAFKOM.cpp(387,5): warning C4551: function call missing argument list
+C:\Users\Dio Andrew\source\repos\TR_GRAFKOM\TR_GRAFKOM\TR_GRAFKOM.cpp(394,5): warning C4551: function call missing argument list
+C:\Users\Dio Andrew\source\repos\TR_GRAFKOM\TR_GRAFKOM\TR_GRAFKOM.cpp(1714,5): warning C4551: function call missing argument list
+C:\Users\Dio Andrew\source\repos\TR_GRAFKOM\TR_GRAFKOM\TR_GRAFKOM.cpp(1723,5): warning C4551: function call missing argument list
+C:\Users\Dio Andrew\source\repos\TR_GRAFKOM\TR_GRAFKOM\TR_GRAFKOM.cpp(1861,5): warning C4551: function call missing argument list
+C:\Users\Dio Andrew\source\repos\TR_GRAFKOM\TR_GRAFKOM\TR_GRAFKOM.cpp(1868,5): warning C4551: function call missing argument list
+C:\Users\Dio Andrew\source\repos\TR_GRAFKOM\TR_GRAFKOM\TR_GRAFKOM.cpp(1875,5): warning C4551: function call missing argument list
+C:\Users\Dio Andrew\source\repos\TR_GRAFKOM\TR_GRAFKOM\TR_GRAFKOM.cpp(1911,5): warning C4551: function call missing argument list
+C:\Users\Dio Andrew\source\repos\TR_GRAFKOM\TR_GRAFKOM\TR_GRAFKOM.cpp(1918,5): warning C4551: function call missing argument list
+C:\Users\Dio Andrew\source\repos\TR_GRAFKOM\TR_GRAFKOM\TR_GRAFKOM.cpp(1925,5): warning C4551: function call missing argument list
+C:\Users\Dio Andrew\source\repos\TR_GRAFKOM\TR_GRAFKOM\TR_GRAFKOM.cpp(1979,5): warning C4551: function call missing argument list
+C:\Users\Dio Andrew\source\repos\TR_GRAFKOM\TR_GRAFKOM\TR_GRAFKOM.cpp(1986,5): warning C4551: function call missing argument list
+C:\Users\Dio Andrew\source\repos\TR_GRAFKOM\TR_GRAFKOM\TR_GRAFKOM.cpp(1993,5): warning C4551: function call missing argument list
+C:\Users\Dio Andrew\source\repos\TR_GRAFKOM\TR_GRAFKOM\TR_GRAFKOM.cpp(2028,5): warning C4551: function call missing argument list
+C:\Users\Dio Andrew\source\repos\TR_GRAFKOM\TR_GRAFKOM\TR_GRAFKOM.cpp(2035,5): warning C4551: function call missing argument list
+C:\Users\Dio Andrew\source\repos\TR_GRAFKOM\TR_GRAFKOM\TR_GRAFKOM.cpp(2042,5): warning C4551: function call missing argument list
+C:\Users\Dio Andrew\source\repos\TR_GRAFKOM\TR_GRAFKOM\TR_GRAFKOM.cpp(2878,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  TR_GRAFKOM.vcxproj -> C:\Users\Dio Andrew\source\repos\TR_GRAFKOM\Debug\TR_GRAFKOM.exe
